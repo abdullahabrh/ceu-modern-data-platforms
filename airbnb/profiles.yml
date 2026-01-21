@@ -4,7 +4,7 @@ airbnb:
       type: snowflake
       account: hpfzrnn-drb05159
       user: admin
-      password: 'Abdullah005300/..'
+      password: 'Password123'
       role: TRANSFORM
       warehouse: COMPUTE_WH
       database: AIRBNB
