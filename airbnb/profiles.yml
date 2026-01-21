@@ -1,0 +1,13 @@
+airbnb:
+  outputs:
+    dev:
+      type: snowflake
+      account: hpfzrnn-drb05159
+      user: admin
+      password: 'Abdullah005300/..'
+      role: TRANSFORM
+      warehouse: COMPUTE_WH
+      database: AIRBNB
+      schema: DEV
+      threads: 1
+  target: dev
